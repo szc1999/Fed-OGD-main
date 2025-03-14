@@ -1,6 +1,4 @@
 '''
-Created on March 9 2022 14:52:43
-@author(s): HuangLab
 '''
 import csv
 import math
