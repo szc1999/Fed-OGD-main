@@ -14,7 +14,6 @@ import random
 # import matplotlib.pyplot as plt
 import copy
 import numpy as np
-import pandas as pd
 
 import torch
 from torch import nn
@@ -133,9 +132,6 @@ def FedLearnSimulate():
         acc_global_model, loss_avg_client = server.run_quilk(dict_users, dataset_train, dataset_test)
              
     print('#################################################data_statistics####################################################')
-    acc = pd.DataFrame(columns=['acc'], data=acc_global_model)  
-    loss = pd.DataFrame(columns=['loss'], data=loss_avg_client)  
-    print(acc)
     # acc.to_csv(f'./result/{args.method}_{args.dataset}_{args.iid}_ep{args.local_ep}_client{args.num_users}_acc.csv', encoding='gbk')
     # loss.to_csv(f'./result/{args.method}_{args.dataset}_{args.iid}_ep{args.local_ep}_client{args.num_users}_loss.csv', encoding='gbk')
 
