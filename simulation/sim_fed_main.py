@@ -133,12 +133,12 @@ def FedLearnSimulate():
 
     with open(f'../loss_{args.method}_{args.dataset}.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        for row in loss_avg_client:
-            writer.writerow(row)
+        for idx, row in enumerate(loss_avg_client):
+            writer.writerow([idx, row])
     with open(f'../acc_{args.method}_{args.dataset}.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
-        for row in acc_global_model:
-            writer.writerow(row)
+        for idx, row in enumerate(acc_global_model):
+            writer.writerow([idx, row])
 
 
 import torch.nn.init as init
