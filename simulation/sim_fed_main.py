@@ -33,7 +33,7 @@ from utils.sampling import dataset_iid, dataset_noniid
 from options import args_parser
 from models.logistic import LogisticRegression
 from models.Lenets import LenetMNIST, LenetCifar, LenetMnistPlus, LenetCifarPlus
-from models.Resnet import ResNet, ResNet8
+from models.resnet import ResNet, ResNet8
 from models.Aggreagtion import FedAvgV1, FedAvg
 from models.test import test_img
 from train.FEDAVG import FedAVG
