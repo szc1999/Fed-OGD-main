@@ -1,0 +1,477 @@
+Round   0, Average loss 1.317, Global acc: 13.320, valid   8
+total_data_sum:  48181
+Round   1, Average loss 1.113, Global acc: 22.120, valid   8
+total_data_sum:  48181
+Round   2, Average loss 0.979, Global acc: 30.820, valid   8
+total_data_sum:  48181
+Round   3, Average loss 0.865, Global acc: 45.170, valid   8
+total_data_sum:  48181
+Round   4, Average loss 0.769, Global acc: 58.570, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round   5, Average loss 0.675, Global acc: 68.200, valid   8
+total_data_sum:  48181
+Round   6, Average loss 0.623, Global acc: 74.910, valid   8
+total_data_sum:  48181
+Round   7, Average loss 0.564, Global acc: 79.780, valid   8
+total_data_sum:  48181
+Round   8, Average loss 0.516, Global acc: 83.280, valid   8
+total_data_sum:  48181
+Round   9, Average loss 0.474, Global acc: 84.040, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  10, Average loss 0.446, Global acc: 85.090, valid   8
+total_data_sum:  48181
+Round  11, Average loss 0.427, Global acc: 86.520, valid   8
+total_data_sum:  48181
+Round  12, Average loss 0.402, Global acc: 87.430, valid   8
+total_data_sum:  48181
+Round  13, Average loss 0.384, Global acc: 87.900, valid   8
+total_data_sum:  48181
+Round  14, Average loss 0.369, Global acc: 88.510, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  15, Average loss 0.354, Global acc: 89.140, valid   8
+total_data_sum:  48181
+Round  16, Average loss 0.345, Global acc: 89.720, valid   8
+total_data_sum:  48181
+Round  17, Average loss 0.332, Global acc: 89.940, valid   8
+total_data_sum:  48181
+Round  18, Average loss 0.319, Global acc: 90.270, valid   8
+total_data_sum:  48181
+Round  19, Average loss 0.313, Global acc: 90.530, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  20, Average loss 0.304, Global acc: 90.980, valid   8
+total_data_sum:  48181
+Round  21, Average loss 0.295, Global acc: 91.190, valid   8
+total_data_sum:  48181
+Round  22, Average loss 0.289, Global acc: 91.160, valid   8
+total_data_sum:  48181
+Round  23, Average loss 0.283, Global acc: 91.650, valid   8
+total_data_sum:  48181
+Round  24, Average loss 0.275, Global acc: 91.940, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  25, Average loss 0.270, Global acc: 92.160, valid   8
+total_data_sum:  48181
+Round  26, Average loss 0.268, Global acc: 92.400, valid   8
+total_data_sum:  48181
+Round  27, Average loss 0.261, Global acc: 92.450, valid   8
+total_data_sum:  48181
+Round  28, Average loss 0.255, Global acc: 92.750, valid   8
+total_data_sum:  48181
+Round  29, Average loss 0.251, Global acc: 92.930, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  30, Average loss 0.245, Global acc: 93.110, valid   8
+total_data_sum:  48181
+Round  31, Average loss 0.244, Global acc: 93.180, valid   8
+total_data_sum:  48181
+Round  32, Average loss 0.240, Global acc: 93.260, valid   8
+total_data_sum:  48181
+Round  33, Average loss 0.236, Global acc: 93.470, valid   8
+total_data_sum:  48181
+Round  34, Average loss 0.232, Global acc: 93.730, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  35, Average loss 0.226, Global acc: 93.830, valid   8
+total_data_sum:  48181
+Round  36, Average loss 0.227, Global acc: 93.970, valid   8
+total_data_sum:  48181
+Round  37, Average loss 0.223, Global acc: 93.910, valid   8
+total_data_sum:  48181
+Round  38, Average loss 0.220, Global acc: 94.020, valid   8
+total_data_sum:  48181
+Round  39, Average loss 0.216, Global acc: 94.220, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  40, Average loss 0.217, Global acc: 94.210, valid   8
+total_data_sum:  48181
+Round  41, Average loss 0.211, Global acc: 94.350, valid   8
+total_data_sum:  48181
+Round  42, Average loss 0.208, Global acc: 94.370, valid   8
+total_data_sum:  48181
+Round  43, Average loss 0.210, Global acc: 94.450, valid   8
+total_data_sum:  48181
+Round  44, Average loss 0.204, Global acc: 94.570, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  45, Average loss 0.205, Global acc: 94.680, valid   8
+total_data_sum:  48181
+Round  46, Average loss 0.198, Global acc: 94.690, valid   8
+total_data_sum:  48181
+Round  47, Average loss 0.198, Global acc: 94.740, valid   8
+total_data_sum:  48181
+Round  48, Average loss 0.194, Global acc: 94.830, valid   8
+total_data_sum:  48181
+Round  49, Average loss 0.194, Global acc: 94.890, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  50, Average loss 0.195, Global acc: 94.940, valid   8
+total_data_sum:  48181
+Round  51, Average loss 0.192, Global acc: 95.030, valid   8
+total_data_sum:  48181
+Round  52, Average loss 0.188, Global acc: 95.110, valid   8
+total_data_sum:  48181
+Round  53, Average loss 0.188, Global acc: 95.080, valid   8
+total_data_sum:  48181
+Round  54, Average loss 0.184, Global acc: 95.110, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  55, Average loss 0.183, Global acc: 95.230, valid   8
+total_data_sum:  48181
+Round  56, Average loss 0.182, Global acc: 95.240, valid   8
+total_data_sum:  48181
+Round  57, Average loss 0.183, Global acc: 95.280, valid   8
+total_data_sum:  48181
+Round  58, Average loss 0.180, Global acc: 95.330, valid   8
+total_data_sum:  48181
+Round  59, Average loss 0.176, Global acc: 95.460, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  60, Average loss 0.176, Global acc: 95.530, valid   8
+total_data_sum:  48181
+Round  61, Average loss 0.176, Global acc: 95.460, valid   8
+total_data_sum:  48181
+Round  62, Average loss 0.173, Global acc: 95.550, valid   8
+total_data_sum:  48181
+Round  63, Average loss 0.172, Global acc: 95.550, valid   8
+total_data_sum:  48181
+Round  64, Average loss 0.172, Global acc: 95.580, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  65, Average loss 0.168, Global acc: 95.590, valid   8
+total_data_sum:  48181
+Round  66, Average loss 0.171, Global acc: 95.670, valid   8
+total_data_sum:  48181
+Round  67, Average loss 0.171, Global acc: 95.710, valid   8
+total_data_sum:  48181
+Round  68, Average loss 0.166, Global acc: 95.750, valid   8
+total_data_sum:  48181
+Round  69, Average loss 0.165, Global acc: 95.760, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  70, Average loss 0.164, Global acc: 95.820, valid   8
+total_data_sum:  48181
+Round  71, Average loss 0.164, Global acc: 95.840, valid   8
+total_data_sum:  48181
+Round  72, Average loss 0.163, Global acc: 95.890, valid   8
+total_data_sum:  48181
+Round  73, Average loss 0.162, Global acc: 95.810, valid   8
+total_data_sum:  48181
+Round  74, Average loss 0.161, Global acc: 95.950, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  75, Average loss 0.162, Global acc: 95.920, valid   8
+total_data_sum:  48181
+Round  76, Average loss 0.156, Global acc: 96.010, valid   8
+total_data_sum:  48181
+Round  77, Average loss 0.156, Global acc: 95.940, valid   8
+total_data_sum:  48181
+Round  78, Average loss 0.157, Global acc: 96.080, valid   8
+total_data_sum:  48181
+Round  79, Average loss 0.157, Global acc: 96.070, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  80, Average loss 0.157, Global acc: 96.110, valid   8
+total_data_sum:  48181
+Round  81, Average loss 0.155, Global acc: 96.060, valid   8
+total_data_sum:  48181
+Round  82, Average loss 0.153, Global acc: 96.130, valid   8
+total_data_sum:  48181
+Round  83, Average loss 0.152, Global acc: 96.230, valid   8
+total_data_sum:  48181
+Round  84, Average loss 0.152, Global acc: 96.220, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  85, Average loss 0.151, Global acc: 96.240, valid   8
+total_data_sum:  48181
+Round  86, Average loss 0.153, Global acc: 96.230, valid   8
+total_data_sum:  48181
+Round  87, Average loss 0.150, Global acc: 96.290, valid   8
+total_data_sum:  48181
+Round  88, Average loss 0.149, Global acc: 96.380, valid   8
+total_data_sum:  48181
+Round  89, Average loss 0.148, Global acc: 96.350, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  90, Average loss 0.149, Global acc: 96.310, valid   8
+total_data_sum:  48181
+Round  91, Average loss 0.148, Global acc: 96.380, valid   8
+total_data_sum:  48181
+Round  92, Average loss 0.144, Global acc: 96.400, valid   8
+total_data_sum:  48181
+Round  93, Average loss 0.145, Global acc: 96.370, valid   8
+total_data_sum:  48181
+Round  94, Average loss 0.145, Global acc: 96.470, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round  95, Average loss 0.142, Global acc: 96.420, valid   8
+total_data_sum:  48181
+Round  96, Average loss 0.143, Global acc: 96.470, valid   8
+total_data_sum:  48181
+Round  97, Average loss 0.145, Global acc: 96.530, valid   8
+total_data_sum:  48181
+Round  98, Average loss 0.144, Global acc: 96.510, valid   8
+total_data_sum:  48181
+Round  99, Average loss 0.142, Global acc: 96.600, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 100, Average loss 0.140, Global acc: 96.510, valid   8
+total_data_sum:  48181
+Round 101, Average loss 0.141, Global acc: 96.630, valid   8
+total_data_sum:  48181
+Round 102, Average loss 0.139, Global acc: 96.590, valid   8
+total_data_sum:  48181
+Round 103, Average loss 0.140, Global acc: 96.570, valid   8
+total_data_sum:  48181
+Round 104, Average loss 0.139, Global acc: 96.630, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 105, Average loss 0.139, Global acc: 96.630, valid   8
+total_data_sum:  48181
+Round 106, Average loss 0.139, Global acc: 96.690, valid   8
+total_data_sum:  48181
+Round 107, Average loss 0.138, Global acc: 96.680, valid   8
+total_data_sum:  48181
+Round 108, Average loss 0.137, Global acc: 96.740, valid   8
+total_data_sum:  48181
+Round 109, Average loss 0.137, Global acc: 96.720, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 110, Average loss 0.139, Global acc: 96.730, valid   8
+total_data_sum:  48181
+Round 111, Average loss 0.136, Global acc: 96.750, valid   8
+total_data_sum:  48181
+Round 112, Average loss 0.135, Global acc: 96.780, valid   8
+total_data_sum:  48181
+Round 113, Average loss 0.132, Global acc: 96.840, valid   8
+total_data_sum:  48181
+Round 114, Average loss 0.134, Global acc: 96.830, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 115, Average loss 0.130, Global acc: 96.780, valid   8
+total_data_sum:  48181
+Round 116, Average loss 0.133, Global acc: 96.840, valid   8
+total_data_sum:  48181
+Round 117, Average loss 0.138, Global acc: 96.760, valid   8
+total_data_sum:  48181
+Round 118, Average loss 0.133, Global acc: 96.820, valid   8
+total_data_sum:  48181
+Round 119, Average loss 0.131, Global acc: 96.810, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 120, Average loss 0.132, Global acc: 96.830, valid   8
+total_data_sum:  48181
+Round 121, Average loss 0.131, Global acc: 96.800, valid   8
+total_data_sum:  48181
+Round 122, Average loss 0.131, Global acc: 96.870, valid   8
+total_data_sum:  48181
+Round 123, Average loss 0.128, Global acc: 96.800, valid   8
+total_data_sum:  48181
+Round 124, Average loss 0.128, Global acc: 96.860, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 125, Average loss 0.130, Global acc: 96.840, valid   8
+total_data_sum:  48181
+Round 126, Average loss 0.128, Global acc: 96.970, valid   8
+total_data_sum:  48181
+Round 127, Average loss 0.128, Global acc: 96.910, valid   8
+total_data_sum:  48181
+Round 128, Average loss 0.129, Global acc: 96.900, valid   8
+total_data_sum:  48181
+Round 129, Average loss 0.129, Global acc: 96.940, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 130, Average loss 0.123, Global acc: 96.920, valid   8
+total_data_sum:  48181
+Round 131, Average loss 0.127, Global acc: 96.930, valid   8
+total_data_sum:  48181
+Round 132, Average loss 0.125, Global acc: 96.910, valid   8
+total_data_sum:  48181
+Round 133, Average loss 0.127, Global acc: 96.940, valid   8
+total_data_sum:  48181
+Round 134, Average loss 0.125, Global acc: 96.940, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 135, Average loss 0.125, Global acc: 96.980, valid   8
+total_data_sum:  48181
+Round 136, Average loss 0.122, Global acc: 96.940, valid   8
+total_data_sum:  48181
+Round 137, Average loss 0.124, Global acc: 96.960, valid   8
+total_data_sum:  48181
+Round 138, Average loss 0.120, Global acc: 96.960, valid   8
+total_data_sum:  48181
+Round 139, Average loss 0.123, Global acc: 97.030, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 140, Average loss 0.124, Global acc: 96.960, valid   8
+total_data_sum:  48181
+Round 141, Average loss 0.125, Global acc: 97.060, valid   8
+total_data_sum:  48181
+Round 142, Average loss 0.123, Global acc: 97.010, valid   8
+total_data_sum:  48181
+Round 143, Average loss 0.121, Global acc: 97.080, valid   8
+total_data_sum:  48181
+Round 144, Average loss 0.121, Global acc: 97.060, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 145, Average loss 0.121, Global acc: 97.050, valid   8
+total_data_sum:  48181
+Round 146, Average loss 0.121, Global acc: 97.030, valid   8
+total_data_sum:  48181
+Round 147, Average loss 0.121, Global acc: 97.030, valid   8
+total_data_sum:  48181
+Round 148, Average loss 0.119, Global acc: 97.170, valid   8
+total_data_sum:  48181
+Round 149, Average loss 0.119, Global acc: 97.120, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 150, Average loss 0.120, Global acc: 97.070, valid   8
+total_data_sum:  48181
+Round 151, Average loss 0.120, Global acc: 97.160, valid   8
+total_data_sum:  48181
+Round 152, Average loss 0.121, Global acc: 97.140, valid   8
+total_data_sum:  48181
+Round 153, Average loss 0.120, Global acc: 97.080, valid   8
+total_data_sum:  48181
+Round 154, Average loss 0.117, Global acc: 97.160, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 155, Average loss 0.120, Global acc: 97.100, valid   8
+total_data_sum:  48181
+Round 156, Average loss 0.116, Global acc: 97.130, valid   8
+total_data_sum:  48181
+Round 157, Average loss 0.117, Global acc: 97.140, valid   8
+total_data_sum:  48181
+Round 158, Average loss 0.115, Global acc: 97.180, valid   8
+total_data_sum:  48181
+Round 159, Average loss 0.117, Global acc: 97.190, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 160, Average loss 0.117, Global acc: 97.190, valid   8
+total_data_sum:  48181
+Round 161, Average loss 0.117, Global acc: 97.190, valid   8
+total_data_sum:  48181
+Round 162, Average loss 0.114, Global acc: 97.200, valid   8
+total_data_sum:  48181
+Round 163, Average loss 0.112, Global acc: 97.250, valid   8
+total_data_sum:  48181
+Round 164, Average loss 0.117, Global acc: 97.230, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 165, Average loss 0.117, Global acc: 97.270, valid   8
+total_data_sum:  48181
+Round 166, Average loss 0.113, Global acc: 97.220, valid   8
+total_data_sum:  48181
+Round 167, Average loss 0.116, Global acc: 97.250, valid   8
+total_data_sum:  48181
+Round 168, Average loss 0.114, Global acc: 97.300, valid   8
+total_data_sum:  48181
+Round 169, Average loss 0.116, Global acc: 97.240, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 170, Average loss 0.113, Global acc: 97.270, valid   8
+total_data_sum:  48181
+Round 171, Average loss 0.116, Global acc: 97.270, valid   8
+total_data_sum:  48181
+Round 172, Average loss 0.113, Global acc: 97.250, valid   8
+total_data_sum:  48181
+Round 173, Average loss 0.112, Global acc: 97.260, valid   8
+total_data_sum:  48181
+Round 174, Average loss 0.114, Global acc: 97.280, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 175, Average loss 0.112, Global acc: 97.300, valid   8
+total_data_sum:  48181
+Round 176, Average loss 0.112, Global acc: 97.320, valid   8
+total_data_sum:  48181
+Round 177, Average loss 0.112, Global acc: 97.350, valid   8
+total_data_sum:  48181
+Round 178, Average loss 0.114, Global acc: 97.280, valid   8
+total_data_sum:  48181
+Round 179, Average loss 0.111, Global acc: 97.330, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 180, Average loss 0.111, Global acc: 97.320, valid   8
+total_data_sum:  48181
+Round 181, Average loss 0.110, Global acc: 97.270, valid   8
+total_data_sum:  48181
+Round 182, Average loss 0.112, Global acc: 97.360, valid   8
+total_data_sum:  48181
+Round 183, Average loss 0.112, Global acc: 97.330, valid   8
+total_data_sum:  48181
+Round 184, Average loss 0.110, Global acc: 97.310, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 185, Average loss 0.112, Global acc: 97.400, valid   8
+total_data_sum:  48181
+Round 186, Average loss 0.107, Global acc: 97.400, valid   8
+total_data_sum:  48181
+Round 187, Average loss 0.112, Global acc: 97.330, valid   8
+total_data_sum:  48181
+Round 188, Average loss 0.109, Global acc: 97.420, valid   8
+total_data_sum:  48181
+Round 189, Average loss 0.110, Global acc: 97.380, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 190, Average loss 0.109, Global acc: 97.390, valid   8
+total_data_sum:  48181
+Round 191, Average loss 0.109, Global acc: 97.440, valid   8
+total_data_sum:  48181
+Round 192, Average loss 0.108, Global acc: 97.440, valid   8
+total_data_sum:  48181
+Round 193, Average loss 0.107, Global acc: 97.400, valid   8
+total_data_sum:  48181
+Round 194, Average loss 0.109, Global acc: 97.450, valid   8
+total_data_sum:  48181
+straggler:2
+straggler:4
+Round 195, Average loss 0.107, Global acc: 97.400, valid   8
+total_data_sum:  48181
+Round 196, Average loss 0.107, Global acc: 97.440, valid   8
+total_data_sum:  48181
+Round 197, Average loss 0.109, Global acc: 97.420, valid   8
+total_data_sum:  48181
+Round 198, Average loss 0.107, Global acc: 97.440, valid   8
+total_data_sum:  48181
+Round 199, Average loss 0.105, Global acc: 97.470, valid   8
