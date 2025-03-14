@@ -38,10 +38,6 @@ from models.Aggreagtion import FedAvgV1, FedAvg
 from models.test import test_img
 from train.FEDAVG import FedAVG
 from train.FEDOGD import FedOGD
-from train.FEDASYNC import FedASYNC
-from train.FLANP import FLANP
-from train.GRADMA import GRADMA, GradMA
-from train.SAFA import SAFA
 
 
 def FedLearnSimulate():
